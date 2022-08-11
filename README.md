@@ -2,9 +2,9 @@ Trata-se de um projeto para colocar em prática os assuntos estudados no Bootcam
 
 Neste projeto foi possível colocar em prática conceitos como:
 
-Servidores na AWS com EC2;
-Microserviços;
-Containers com Docker;
-Cluster com Docker Swarm;
-Infraestrutra como código.
+* Servidores na AWS com EC2;
+* Microserviços;
+* Containers com Docker;
+* Cluster com Docker Swarm;
+* Infraestrutra como código.
 
